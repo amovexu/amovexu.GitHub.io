@@ -1,2 +1,2 @@
 # amovexu.GitHub.io
-amove xu
+这个人太懒了，什么信息也没有留
