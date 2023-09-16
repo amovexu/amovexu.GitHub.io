@@ -1,0 +1,58 @@
+{
+    "version": "20230825",
+    "adList": [
+        {
+            "coverImgUrl": "https://img1.artron.net/auction/old/art3189/d/art31891309.jpg",
+            "title": "江南春",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6",
+            "adInfo": {
+                "url": "https://vd3.bdstatic.com/mda-phmbkszd5zzpcgyd/sc/cae_h264/1692701387472592880/mda-phmbkszd5zzpcgyd.mp4"
+            }
+        },
+        {
+            "coverImgUrl": "https://www.51wendang.com/pic/9e675f907044fd14772c9639/1-810-jpg_6-1080-0-0-1080.jpg",
+            "title": "古朗月行",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6",
+            "adInfo": {
+                "url": "https://vd4.bdstatic.com/mda-mjdavufeun17ccc3/sc/cae_h264_nowatermark/1634212174992826170/mda-mjdavufeun17ccc3.mp4"
+            }
+        },
+        {
+            "coverImgUrl": "https://img.pconline.com.cn/images/photoblog/4/4/3/6/4436387/20098/5/1249480852450_mthumb.jpg",
+            "title": "望天门山",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6",
+            "adInfo": {
+                "url": "https://vd3.bdstatic.com/mda-mhgktrdwad1q26b3/sc/cae_h264_nowatermark/1629212203900905436/mda-mhgktrdwad1q26b3.mp4"
+            }
+        },
+        {
+            "coverImgUrl": "https://i1.hdslb.com/bfs/archive/4e7abbe19bf8d5309b22942784e541c0030e04c3.png",
+            "title": "游子吟",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6",
+            "adInfo": {
+                "url": "https://vd4.bdstatic.com/mda-mg93kz1p6804urq2/sc/cae_h264/1679694158581615872/mda-mg93kz1p6804urq2.mp4"
+            }
+        },
+        {
+            "coverImgUrl": "https://img30.360buyimg.com/vc/jfs/t1/221376/10/28181/235830/646b0307F3c42c263/f566ba69f848b87f.jpg",
+            "title": "唐诗来了！在诗人故事中轻松读唐诗",
+            "type": "1",
+            "gradeRange": "0,1,2,3,4,5,6",
+            "adInfo": {
+                "coverImgUrl": "https://img30.360buyimg.com/vc/jfs/t1/221376/10/28181/235830/646b0307F3c42c263/f566ba69f848b87f.jpg",
+                "name": "唐诗来了",
+                "author": "歪歪兔童书馆",
+                "price": "80",
+                "sales": "513",
+                "productIntroduce": "唐诗来了！在诗人故事中轻松读唐诗",
+                "productUrl": "https://u.jd.com/YsB01zF",
+                "gradeRange": "0,1,2,3,4,5,6",
+            }
+        }
+    ],
+    "checkSum": "1D22B944073D8B4BFEC0B5C5966A3824"
+}
