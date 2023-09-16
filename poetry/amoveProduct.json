@@ -1,22 +1,56 @@
 {
-    "version":"20230825",
-    "goodsList":[
+    "version": "20230825",
+    "goodsList": [
         {
-            "coverImgUrl":"https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/216557/18/25201/192349/63db7b5fF6c4aaebd/42c98435d0f95ce6.jpg",
-            "name":"小学生必背古诗词75+80首",
-            "author":"开心语文研究中心",
-            "price":"14.9",
-            "productIntroduce":"小学生必背古诗词75+80首 （共206首）彩图注音文言文速背思维导图 涵盖2023年新教材必背古诗文129首。",
-            "productUrl":"https://u.jd.com/nbpkmH5"
+            "coverImgUrl": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/216557/18/25201/192349/63db7b5fF6c4aaebd/42c98435d0f95ce6.jpg",
+            "name": "小学生必背古诗词75+80首",
+            "author": "开心语文研究中心",
+            "price": "14.9",
+            "sales": "85119",
+            "productIntroduce": "小学生必背古诗词75+80首 （共206首）彩图注音文言文速背思维导图 涵盖2023年新教材必背古诗文129首。",
+            "productUrl": "https://u.jd.com/Y8BD2kW",
+            "gradeRange": "0,1,2,3,4,5,6",
         },
         {
-            "coverImgUrl":"https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/125064/24/36603/360436/645df1e6F72856158/f574b079a1d55a9f.png",
-            "name":"汗青有韵：古诗词里的历史",
-            "author":"尹洁",
-            "price":"30",
-            "productIntroduce":"《汗青有韵：古诗词里的历史》是北京师范大学汉语文化学院副教授、硕士生导师尹洁的最新著作。是广州出版社打造出版的“诗教中国”系列丛书的第四本。",
-            "productUrl":"https://u.jd.com/nup4mYw"
+            "coverImgUrl": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/125064/24/36603/360436/645df1e6F72856158/f574b079a1d55a9f.png",
+            "name": "汗青有韵：古诗词里的历史",
+            "author": "尹洁",
+            "price": "38.0",
+            "sales": "1800",
+            "productIntroduce": "《汗青有韵：古诗词里的历史》是北京师范大学汉语文化学院副教授、硕士生导师尹洁的最新著作。是广州出版社打造出版的“诗教中国”系列丛书的第四本。",
+            "productUrl": "https://u.jd.com/YsBSHrQ",
+            "gradeRange": "0,1,2,3,4,5,6",
+        },
+        {
+            "coverImgUrl": "https://img30.360buyimg.com/vc/jfs/t1/221376/10/28181/235830/646b0307F3c42c263/f566ba69f848b87f.jpg",
+            "name": "唐诗来了",
+            "author": "歪歪兔童书馆",
+            "price": "80",
+            "sales": "513",
+            "productIntroduce": "唐诗来了！在诗人故事中轻松读唐诗",
+            "productUrl": "https://u.jd.com/YsB01zF",
+            "gradeRange": "0,1,2,3,4,5,6",
+        },
+        {
+            "coverImgUrl": "https://img12.360buyimg.com/imgzone/jfs/t1/97716/23/42416/382413/64d1b75cF8a0cf4f0/3db75e90de09e243.png",
+            "name": "给孩子的唐诗课",
+            "author": "六神磊磊",
+            "price": "34.90",
+            "sales": "987",
+            "productIntroduce": "给孩子的唐诗课 六神磊磊 不勉强孩子背唐诗，只负责让孩子爱上唐诗 了解诗人们的小秘密、开心和忧伤",
+            "productUrl": "https://u.jd.com/YsBPtLv",
+            "gradeRange": "0,1,2,3,4,5,6",
+        },
+        {
+            "coverImgUrl": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/74690/15/23536/112954/636e765eE5739e839/ea686a23ebc54555.jpg",
+            "name": "小学生必背古诗词75首",
+            "author": "六神磊磊",
+            "price": "34.90",
+            "sales": "987",
+            "productIntroduce": "小学生必背古诗词75首（必背版）",
+            "productUrl": "https://u.jd.com/YiB0rAX",
+            "gradeRange": "0,1,2,3,4,5,6",
         }
     ],
-    "checkSum":"96256A4F85A8DE475DE848C0E0578CB3"
+    "checkSum": "C21CD2124E2C84E96EA32B551F933414"
 }
