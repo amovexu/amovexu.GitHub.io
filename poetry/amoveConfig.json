@@ -11,21 +11,21 @@
             }
         },
         {
-            "coverImgUrl": "https://www.51wendang.com/pic/9e675f907044fd14772c9639/1-810-jpg_6-1080-0-0-1080.jpg",
-            "title": "古朗月行",
+            "coverImgUrl": "https://img.book118.com/sr1/M00/10/3C/wKh2Al2o7wSIJmhhAADKTzKrdKUAAgSKgF8ZocAAMpn624.jpg",
+            "title": "春夜喜雨",
             "type": "0",
             "gradeRange": "0,1,2,3,4,5,6",
             "adInfo": {
-                "url": "https://vd4.bdstatic.com/mda-mjdavufeun17ccc3/sc/cae_h264_nowatermark/1634212174992826170/mda-mjdavufeun17ccc3.mp4"
+                "url": "https://vdept3.bdstatic.com/mda-nah7aqjat5992n3c/hd/cae_h264_delogo/1642482819214224470/mda-nah7aqjat5992n3c.mp4?v_from_s=hkapp-haokan-hnb&auth_key=1708949144-0-0-ae4dce04aabd7afe3ddaea0dcdce37d6&bcevod_channel=searchbox_feed&cr=1&cd=0&pd=1&pt=3&logid=0344163440&vid=167510562342112162&klogid=0344163440&abtest=116096_1"
             }
         },
         {
-            "coverImgUrl": "https://img.pconline.com.cn/images/photoblog/4/4/3/6/4436387/20098/5/1249480852450_mthumb.jpg",
-            "title": "望天门山",
+            "coverImgUrl": "https://ss2.meipian.me/articleTpl/dd696fe58cee172e578b0450741d2faf.png",
+            "title": "钱塘湖春行",
             "type": "0",
             "gradeRange": "0,1,2,3,4,5,6",
             "adInfo": {
-                "url": "https://vd3.bdstatic.com/mda-mhgktrdwad1q26b3/sc/cae_h264_nowatermark/1629212203900905436/mda-mhgktrdwad1q26b3.mp4"
+                "url": "https://www.meipian.cn/2r62qle2"
             }
         },
         {
@@ -54,5 +54,5 @@
             }
         }
     ],
-    "checkSum": "7A2D12AF10BAB91DF9BC55B4B6E38BD0"
+    "checkSum": "73E438ACD41022F910E00D6DF0160144"
 }
