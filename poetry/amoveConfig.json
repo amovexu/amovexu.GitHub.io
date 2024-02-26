@@ -1,5 +1,5 @@
 {
-    "version": "20230825",
+    "version": "20240226",
     "adList": [
         {
             "coverImgUrl": "https://img1.artron.net/auction/old/art3189/d/art31891309.jpg",
@@ -38,21 +38,21 @@
             }
         },
         {
-            "coverImgUrl": "https://img30.360buyimg.com/vc/jfs/t1/221376/10/28181/235830/646b0307F3c42c263/f566ba69f848b87f.jpg",
-            "title": "唐诗来了！在诗人故事中轻松读唐诗",
+            "coverImgUrl": "https://img30.360buyimg.com/vc/jfs/t1/184356/20/3803/307059/609cd384E1a6ee4da/c04a203d244e4ee1.jpg",
+            "title": "康震古诗词81课【王源力荐】中国诗词大会经典咏流传",
             "type": "1",
             "gradeRange": "0,1,2,3,4,5,6",
             "adInfo": {
-                "coverImgUrl": "https://img30.360buyimg.com/vc/jfs/t1/221376/10/28181/235830/646b0307F3c42c263/f566ba69f848b87f.jpg",
-                "name": "唐诗来了",
-                "author": "歪歪兔童书馆",
-                "price": "80",
-                "sales": "513",
-                "productIntroduce": "唐诗来了！在诗人故事中轻松读唐诗",
-                "productUrl": "https://u.jd.com/YsB01zF",
+                "coverImgUrl": "https://img30.360buyimg.com/vc/jfs/t1/184356/20/3803/307059/609cd384E1a6ee4da/c04a203d244e4ee1.jpg",
+                "name": "康震古诗词81课",
+                "author": "康震",
+                "price": "24.90",
+                "sales": "30568",
+                "productIntroduce": "康震古诗词81课【王源力荐】中国诗词大会经典咏流传",
+                "productUrl": "https://u.jd.com/fQBQpQ0",
                 "gradeRange": "0,1,2,3,4,5,6",
             }
         }
     ],
-    "checkSum": "1D22B944073D8B4BFEC0B5C5966A3824"
+    "checkSum": "7A2D12AF10BAB91DF9BC55B4B6E38BD0"
 }
