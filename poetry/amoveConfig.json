@@ -1,5 +1,5 @@
 {
-    "version": "20240301",
+    "version": "202401023",
     "adList": [
         {
             "coverImgUrl": "https://s1.best-wallpaper.net/wallpaper/m/1611/Spring-plants-close-up-grass-dew_m.jpg",
@@ -11,57 +11,14 @@
             }
         },
         {
-            "coverImgUrl": "https://img1.artron.net/auction/old/art3189/d/art31891309.jpg",
-            "title": "江南春",
+            "coverImgUrl": "https://q8.itc.cn/q_70/images03/20240217/0c5761559fcd4b8b8864c6fd568653f9.jpeg",
+            "title": "春晓",
             "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
             "adInfo": {
-                "url": "https://vd3.bdstatic.com/mda-phmbkszd5zzpcgyd/sc/cae_h264/1692701387472592880/mda-phmbkszd5zzpcgyd.mp4"
-            }
-        },
-        {
-            "coverImgUrl": "https://img.book118.com/sr1/M00/10/3C/wKh2Al2o7wSIJmhhAADKTzKrdKUAAgSKgF8ZocAAMpn624.jpg",
-            "title": "春夜喜雨",
-            "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6",
-            "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/HBrSKpyGkBNcd1XxiKmI7Q"
-            }
-        },
-        {
-            "coverImgUrl": "https://ss2.meipian.me/articleTpl/dd696fe58cee172e578b0450741d2faf.png",
-            "title": "钱塘湖春行",
-            "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6",
-            "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/R-K9nfwypf8XUAQHyB-a1g"
-            }
-        },
-        {
-            "coverImgUrl": "https://i1.hdslb.com/bfs/archive/4e7abbe19bf8d5309b22942784e541c0030e04c3.png",
-            "title": "游子吟",
-            "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6",
-            "adInfo": {
-                "url": "https://vd4.bdstatic.com/mda-mg93kz1p6804urq2/sc/cae_h264/1679694158581615872/mda-mg93kz1p6804urq2.mp4"
-            }
-        },
-        {
-            "coverImgUrl": "https://img30.360buyimg.com/vc/jfs/t1/14117/34/15314/315847/5caeed19E5e8add34/505854bad8da4567.jpg",
-            "title": "彩图版小学生多功能字典(32开大字护眼版)",
-            "type": "1",
-            "gradeRange": "0,1,2,3,4,5,6",
-            "adInfo": {
-                "coverImgUrl": "https://img30.360buyimg.com/vc/jfs/t1/14117/34/15314/315847/5caeed19E5e8add34/505854bad8da4567.jpg",
-                "name": "彩图版小学生多功能字典(32开大字护眼版)",
-                "author": "说词解字辞书研究中心",
-                "price": "34.90",
-                "sales": "95910",
-                "productIntroduce": "彩图版小学生多功能字典(32开大字护眼版) 笔画部首同义词近义词反义词词典 对接教材，1-6年级工具书，小学生学字好帮手",
-                "productUrl": "https://u.jd.com/fsBzJd6",
-                "gradeRange": "0,1,2,3,4,5,6",
+                "url": "https://mp.weixin.qq.com/s/iWeg4yyn1uOeW4sxQW7sTA"
             }
         }
     ],
-    "checkSum": "4A9EDE71FE9545972BD9D11B1C34954C"
+    "checkSum": "DAB08834FCF948EE344636A6DC516E28"
 }
