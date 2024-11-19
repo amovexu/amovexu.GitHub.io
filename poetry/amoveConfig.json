@@ -1,5 +1,5 @@
 {
-    "version": "202401023",
+    "version": "202401119",
     "adList": [
         {
             "coverImgUrl": "https://pic.rmb.bdstatic.com/bjh/down/09400a7ed957ab7161fbd7b943ee7fe2.jpeg",
@@ -10,6 +10,16 @@
                 "url": "https://mp.weixin.qq.com/s/PH2TlrKa4Xp2q6vPt5vpMg"
             }
         },
+        {
+            "coverImgUrl": "https://amovejobs.top/poetry/travel/travel_fujian_quanzhou.jpg",
+            "title": "跟着古诗词漫步福建之泉州篇",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
+            "adInfo": {
+                "url": "https://mp.weixin.qq.com/s/c5Shs9gflMI6WS8dxW5f1Q"
+            }
+        },
+        
         {
             "coverImgUrl": "https://amovejobs.top/poetry/studentcover/xiaoxue_1_cover.jpeg",
             "title": "部编人教版小学生必背古诗词 [一年级]",
@@ -64,6 +74,33 @@
                 "url": "https://mp.weixin.qq.com/s/i9CiJjMH0DUX_QZuM7LaaQ"
             }
         },
+        {
+            "coverImgUrl": "https://amovejobs.top/poetry/studentcover/cuzhong_7_cover.jpeg",
+            "title": "部编人教版初中生必背古诗词 [七年级]",
+            "type": "0",
+            "gradeRange": "7",
+            "adInfo": {
+                "url": "https://mp.weixin.qq.com/s/AgfuynWFY1faOIcTL9wHcQ"
+            }
+        },
+        {
+            "coverImgUrl": "https://amovejobs.top/poetry/studentcover/cuzhong_8_cover.jpeg",
+            "title": "部编人教版初中生必背古诗词 [八年级]",
+            "type": "0",
+            "gradeRange": "8",
+            "adInfo": {
+                "url": "https://mp.weixin.qq.com/s/aQ8L1eyIVoqx57PaQpqBPQ"
+            }
+        },
+        {
+            "coverImgUrl": "https://amovejobs.top/poetry/studentcover/cuzhong_9_cover.jpeg",
+            "title": "部编人教版初中生必背古诗词 [九年级]",
+            "type": "0",
+            "gradeRange": "9",
+            "adInfo": {
+                "url": "https://mp.weixin.qq.com/s/wfBs3kQgC8GNXHUsI7ljhA"
+            }
+        },
     ],
-    "checkSum": "AAC46350A39E3CA3A8119421B160FA46"
+    "checkSum": "47EF4FB364AB039426990177F0FC71C9"
 }
