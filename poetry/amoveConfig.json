@@ -11,6 +11,15 @@
             }
         },
         {
+            "coverImgUrl": "https://amovejobs.top/poetry/travel/travel_fujian_putian.jpg",
+            "title": "跟着古诗词漫步福建之莆田篇",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
+            "adInfo": {
+                "url": "https://mp.weixin.qq.com/s/D8ay5DIFjaV44z5Bb8LcEQ"
+            }
+        },
+        {
             "coverImgUrl": "https://pic.rmb.bdstatic.com/bjh/down/09400a7ed957ab7161fbd7b943ee7fe2.jpeg",
             "title": "秋天最后的回眸，却没有百媚生",
             "type": "0",
@@ -102,5 +111,5 @@
             }
         },
     ],
-    "checkSum": "1295B050A31B320364FC9E5FB2DFE8BB"
+    "checkSum": "3CEF9ABF45E2EAC681A90819E2F9802E"
 }
