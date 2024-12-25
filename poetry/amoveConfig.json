@@ -1,6 +1,15 @@
 {
-    "version": "202401119",
+    "version": "202401225",
     "adList": [
+        {
+            "coverImgUrl": "https://amovejobs.top/poetry/normal/cover_twobirds.jpg",
+            "title": "小学初中古诗词高效解题攻略",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
+            "adInfo": {
+                "url": "https://mp.weixin.qq.com/mp/homepage?__biz=Mzk0MTY1NzM4Ng==&hid=5&sn=6bf7d57376afd46355f97611a73e6b27"
+            }
+        },
         {
             "coverImgUrl": "https://amovejobs.top/poetry/travel/travel_fujian_quanzhou.jpg",
             "title": "跟着古诗词漫步福建之泉州篇",
@@ -111,5 +120,5 @@
             }
         },
     ],
-    "checkSum": "3CEF9ABF45E2EAC681A90819E2F9802E"
+    "checkSum": "35EC9BD8DCBE83802A16092649A54DD4"
 }
