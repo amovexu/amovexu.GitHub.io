@@ -7,7 +7,7 @@
             "type": "0",
             "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
             "adInfo": {
-                "url": "https://mp.weixin.qq.com/mp/homepage?__biz=Mzk0MTY1NzM4Ng==&hid=5&sn=6bf7d57376afd46355f97611a73e6b27"
+                "url": "https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=Mzk0MTY1NzM4Ng==&scene=1&album_id=3774973610914447360&count=3#wechat_redirect"
             }
         },
         {
@@ -120,5 +120,5 @@
             }
         },
     ],
-    "checkSum": "35EC9BD8DCBE83802A16092649A54DD4"
+    "checkSum": "484AA4DCB585B4DE0DF34E7B83483353"
 }
