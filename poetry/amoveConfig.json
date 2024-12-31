@@ -1,6 +1,15 @@
 {
-    "version": "202401225",
+    "version": "202401231",
     "adList": [
+        {
+            "coverImgUrl": "https://amovejobs.top/poetry/normal/cover_firework.jpeg",
+            "title": "那些惊艳了你的跨年诗词",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
+            "adInfo": {
+                "url": "https://mp.weixin.qq.com/s/RI8isAYCV9j2P5O7PKj7MA"
+            }
+        },
         {
             "coverImgUrl": "https://amovejobs.top/poetry/normal/cover_twobirds.jpg",
             "title": "小学初中古诗词高效解题攻略",
@@ -28,16 +37,7 @@
                 "url": "https://mp.weixin.qq.com/s/D8ay5DIFjaV44z5Bb8LcEQ"
             }
         },
-        {
-            "coverImgUrl": "https://pic.rmb.bdstatic.com/bjh/down/09400a7ed957ab7161fbd7b943ee7fe2.jpeg",
-            "title": "秋天最后的回眸，却没有百媚生",
-            "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
-            "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/PH2TlrKa4Xp2q6vPt5vpMg"
-            }
-        },
-        
+   
         {
             "coverImgUrl": "https://amovejobs.top/poetry/studentcover/xiaoxue_1_cover.jpeg",
             "title": "部编人教版小学生必背古诗词 [一年级]",
@@ -120,5 +120,5 @@
             }
         },
     ],
-    "checkSum": "7E474C1F0370AA5745F72E54BAB7EC6E"
+    "checkSum": "C2B460E6F09F159CE8CB58A8EAE34124"
 }
