@@ -1,22 +1,13 @@
 {
-    "version": "20250206",
+    "version": "20250325",
     "adList": [
         {
-            "coverImgUrl": "https://amovejobs.top/poetry/normal/cover_startWorker.jpg",
-            "title": "开工大吉",
+            "coverImgUrl": "https://wx2.sinaimg.cn/large/8f58852bly1hzjt4qlufwj20rs0fmaiy.jpg",
+            "title": "部编小学二年级中国神话故事之羿射九日",
             "type": "0",
             "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
             "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/FkdShtZDsIhk2T9tDo-tHQ"
-            }
-        },
-        {
-            "coverImgUrl": "https://amovejobs.top/poetry/normal/cover_firework.jpeg",
-            "title": "那些惊艳了你的跨年诗词",
-            "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
-            "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/RI8isAYCV9j2P5O7PKj7MA"
+                "url": "https://mp.weixin.qq.com/s/RK_E9yBWNC9aSNkAC7kkMA"
             }
         },
         {
@@ -129,5 +120,6 @@
             }
         },
     ],
+    "BDAIClose": "NO"
     "checkSum": "9CDEA295E3602F2F6E8DD8E3CD049A1D"
 }
