@@ -1,5 +1,5 @@
 {
-    "version": "20250325",
+    "version" : "20250420",
     "adList": [
         {
             "coverImgUrl": "https://wx2.sinaimg.cn/large/8f58852bly1hzjt4qlufwj20rs0fmaiy.jpg",
@@ -118,8 +118,14 @@
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/wfBs3kQgC8GNXHUsI7ljhA"
             }
-        },
+        }
     ],
+    "AIModelInfo": {
+     "modelUrl" : "https://yuanqi.tencent.com/agent/Jim9UlWtWInK",
+        "modelIcon" : "https://amovejobs.top/poetry/normal/fun_AIModel_icon.png",
+        "name" : "诗词问答",
+        "nameEn" : "VerseGenie "
+    },
     "BDAIClose": "NO",
-    "checkSum": "78A807F76A91FE218492F8D4B0E7E485",
+    "checkSum" : "98FA63E4B4DCB2ADCFF6FDCC084DAB3D"
 }
