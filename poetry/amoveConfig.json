@@ -2,10 +2,10 @@
     "version" : "20250420",
     "adList": [
         {
-            "coverImgUrl": "https://amovejobs.top/poetry/travel/travel_zhuxi.jpg",
+            "coverImgUrl": "https://amovejobs.top/poetry/travel/travel_zhuxi.jpeg",
             "title": "朱熹与福建：半亩方塘映千古，海滨邹鲁传儒风",
             "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/AZsU7iRS1rbpGkYHQ-5cSg"
             }
@@ -14,7 +14,7 @@
             "coverImgUrl": "https://amovejobs.top/poetry/travel/travel_guangdong.jpg",
             "title": "读懂岭南，从这里开始",
             "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/9N7ATfv5y-YaRZvVtKVgnA"
             }
@@ -23,7 +23,7 @@
             "coverImgUrl": "https://wx2.sinaimg.cn/large/8f58852bly1hzjt4qlufwj20rs0fmaiy.jpg",
             "title": "部编小学二年级中国神话故事之羿射九日",
             "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/RK_E9yBWNC9aSNkAC7kkMA"
             }
@@ -32,7 +32,7 @@
             "coverImgUrl": "https://amovejobs.top/poetry/normal/cover_twobirds.jpg",
             "title": "小学初中古诗词高效解题攻略",
             "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/BcRtZV3Ox0azCFBuwhdI4w"
             }
@@ -40,7 +40,7 @@
    
         {
             "coverImgUrl": "https://amovejobs.top/poetry/studentcover/xiaoxue_1_cover.jpeg",
-            "title": "部编人教版小学生必背古诗词 [一年级]",
+            "title": "部编人教版小学生必背古诗词 [一年级],99",
             "type": "0",
             "gradeRange": "1",
             "adInfo": {
@@ -51,7 +51,7 @@
             "coverImgUrl": "https://amovejobs.top/poetry/studentcover/xiaoxue_2_cover.jpeg",
             "title": "部编人教版小学生必背古诗词 [二年级]",
             "type": "0",
-            "gradeRange": "2",
+            "gradeRange": "1,2",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/kEOWNJ_SSCt9S6jEdgMHLw"
             }
@@ -60,7 +60,7 @@
             "coverImgUrl": "https://amovejobs.top/poetry/studentcover/xiaoxue_3_cover.jpeg",
             "title": "部编人教版小学生必背古诗词 [三年级]",
             "type": "0",
-            "gradeRange": "3",
+            "gradeRange": "2,3",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/FyvvjQiyn4DktSohDCi5BQ"
             }
@@ -69,7 +69,7 @@
             "coverImgUrl": "https://amovejobs.top/poetry/studentcover/xiaoxue_40_cover.jpeg",
             "title": "部编人教版小学生必背古诗词 [四年级]",
             "type": "0",
-            "gradeRange": "4",
+            "gradeRange": "3,4",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/NBhx3MaWNssbhnlewg0rZA"
             }
@@ -78,7 +78,7 @@
             "coverImgUrl": "https://amovejobs.top/poetry/studentcover/xiaoxue_5_cover.jpeg",
             "title": "部编人教版小学生必背古诗词 [五年级]",
             "type": "0",
-            "gradeRange": "5",
+            "gradeRange": "4,5",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/fawjkz7fT_HGx166lHOEYw"
             }
@@ -96,7 +96,7 @@
             "coverImgUrl": "https://amovejobs.top/poetry/studentcover/cuzhong_7_cover.jpeg",
             "title": "部编人教版初中生必背古诗词 [七年级]",
             "type": "0",
-            "gradeRange": "7",
+            "gradeRange": "7,8",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/AgfuynWFY1faOIcTL9wHcQ"
             }
@@ -105,7 +105,7 @@
             "coverImgUrl": "https://amovejobs.top/poetry/studentcover/cuzhong_8_cover.jpeg",
             "title": "部编人教版初中生必背古诗词 [八年级]",
             "type": "0",
-            "gradeRange": "8",
+            "gradeRange": "8,9",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/aQ8L1eyIVoqx57PaQpqBPQ"
             }
@@ -114,7 +114,7 @@
             "coverImgUrl": "https://amovejobs.top/poetry/studentcover/cuzhong_9_cover.jpeg",
             "title": "部编人教版初中生必背古诗词 [九年级]",
             "type": "0",
-            "gradeRange": "9",
+            "gradeRange": "8,9",
             "adInfo": {
                 "url": "https://mp.weixin.qq.com/s/wfBs3kQgC8GNXHUsI7ljhA"
             }
@@ -128,5 +128,5 @@
     },
     "TXAIClose": "NO",
     "BDAIClose": "NO",
-    "checkSum" : "2603CA8407450D7BE6F0C1F145E49A6E"
+    "checkSum" : "F606782AA5DCCB5048DF67998A72B6BF"
 }
