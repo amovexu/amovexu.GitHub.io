@@ -1,0 +1,66 @@
+{
+    "version": "20241024",
+    "topicList": [
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/normal/cover_tower.jpg",
+                "title": "“一蓑烟雨任平生”：那个被命运反复暴击的苏轼，早把日子过成了诗",
+                "contentUrl": "https://mp.weixin.qq.com/s/zwg9Yr9DhKanJoiPprOHqw",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+       {
+           "type":"1",
+           "itemInfo": {
+               "coverImgUrl": "https://amovejobs.top/poetry/normal/cover_twobirds.jpg",
+               "title": "小学初中古诗词高效解题攻略",
+               "contentUrl": "https://mp.weixin.qq.com/s/BcRtZV3Ox0azCFBuwhdI4w",
+               "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+           },
+       },
+       {
+           "type":"1",
+           "itemInfo": {
+               "coverImgUrl": "https://amovejobs.top/poetry/travel/travel_zhuxi.jpeg",
+               "title": "朱熹与福建：半亩方塘映千古，海滨邹鲁传儒风",
+               "contentUrl": "https://mp.weixin.qq.com/s/AZsU7iRS1rbpGkYHQ-5cSg",
+               "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+           },
+       },
+       {
+           "type":"1",
+           "itemInfo": {
+               "coverImgUrl": "https://amovejobs.top/poetry/travel/travel_guangdong.jpg",
+               "title": "读懂岭南，从这里开始",
+               "contentUrl": "https://mp.weixin.qq.com/s/9N7ATfv5y-YaRZvVtKVgnA",
+               "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+           },
+       },
+       {
+           "type":"1",
+           "itemInfo": {
+               "coverImgUrl": "https://amovejobs.top/poetry/author/author_xinqiji.jpeg",
+               "title": "63岁辛弃疾敲开78岁陆游的破草堂：两个 “不合时宜” 的老头，用余生赌一个不可能的北伐",
+               "contentUrl": "https://mp.weixin.qq.com/s/FzZvyCv3yjNzuDp7Ss0ZUg",
+               "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+           },
+       },
+       {
+           "type":"0",
+           "productInfo": {
+               "coverImgUrl": "book_fudan",
+               "name": "复旦附中双新语文课",
+               "author": "黄荣华",
+               "price": "262.9",
+               "sales": "5119",
+               "productIntroduce": "发现语文之美，启迪智慧之光。复旦附中双新语文课，高中必备教材，引领学子阅读写作之路。",
+               "productUrl": "https://u.jd.com/g1xnkIK",
+               "gradeRange": "7,8,9,10,11,12",
+           },
+       },
+
+        
+    ],
+    "checkSum": "5A51084869C3FF8F3AEDB94F8C9CA063"
+}
