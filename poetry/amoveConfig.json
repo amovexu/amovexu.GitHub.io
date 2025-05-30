@@ -1,13 +1,22 @@
 {
-    "version" : "20250420",
+    "version" : "20250530",
     "adList": [
         {
-            "coverImgUrl": "https://amovejobs.top/poetry/travel/travel_zhuxi.jpeg",
-            "title": "朱熹与福建：半亩方塘映千古，海滨邹鲁传儒风",
+            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_gaokao.jpg",
+            "title": "高考加油！青衿之志，履践致远！",
             "type": "0",
             "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/AZsU7iRS1rbpGkYHQ-5cSg"
+                "url": "https://mp.weixin.qq.com/s/E8sGhnOH0a0yA_yO2BG9KQ"
+            }
+        },
+        {
+            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_read.jpg",
+            "title": "陆游竟是古代第一猫奴？",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            "adInfo": {
+                "url": "https://mp.weixin.qq.com/s/XOt6Jil3UVxVFBtD_Usybw"
             }
         },
         {
@@ -128,5 +137,5 @@
     },
     "TXAIClose": "NO",
     "BDAIClose": "NO",
-    "checkSum" : "F606782AA5DCCB5048DF67998A72B6BF"
+    "checkSum" : "229F4FEFA5BB4FA7B141ABD71745235C"
 }
