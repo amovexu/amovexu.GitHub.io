@@ -1,15 +1,25 @@
 {
-    "version" : "20250530",
+    "version" : "20250930",
     "adList": [
         {
-            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_gaokao.jpg",
-            "title": "高考加油！青衿之志，履践致远！",
+            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_zhongqiu.jpg",
+            "title": "中秋，是一场瞒不住的思念",
             "type": "0",
             "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/E8sGhnOH0a0yA_yO2BG9KQ"
+                "url": "https://mp.weixin.qq.com/s/Six83o1tkKodnoVd0WHRbA"
             }
         },
+        {
+            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_biyeji.jpg",
+            "title": "【毕业季】有离别才有重逢",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            "adInfo": {
+                "url": "https://mp.weixin.qq.com/s/Un-iNMaOJlNCkFJlF92xEg"
+            }
+        },
+       
         {
             "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_read.jpg",
             "title": "陆游竟是古代第一猫奴？",
@@ -137,5 +147,5 @@
     },
     "TXAIClose": "NO",
     "BDAIClose": "NO",
-    "checkSum" : "229F4FEFA5BB4FA7B141ABD71745235C"
+    "checkSum" : "3E321C3E6A17BC565B3759392F7BA95C"
 }
