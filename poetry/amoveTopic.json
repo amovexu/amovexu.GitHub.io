@@ -1,6 +1,42 @@
 {
-    "version": "20250530",
+    "version": "20250930",
     "topicList": [
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_zhongqiu.jpg",
+                "title": "中秋，是一场瞒不住的思念",
+                "contentUrl": "https://mp.weixin.qq.com/s/Six83o1tkKodnoVd0WHRbA",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_biyeji.jpg",
+                "title": "【毕业季】有离别才有重逢",
+                "contentUrl": "https://mp.weixin.qq.com/s/Un-iNMaOJlNCkFJlF92xEg",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_libaiwodao.jpg",
+                "title": "【繁华散尽：李白的剑、高适的印、杜甫的诗，都输给了时代—— 一个永远怀念，一个永不原谅",
+                "contentUrl": "https://mp.weixin.qq.com/s/8nqwacB3rI0XQ9yqQkzKcA",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_suxiaoxiao.jpg",
+                "title": "19 岁香消玉殒，却让中国人怀念了 1500 年：西泠桥畔的诗魂苏小小",
+                "contentUrl": "https://mp.weixin.qq.com/s/E83y4Rvbx2TJtjyzOTPDuw",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
         {
             "type":"1",
             "itemInfo": {
@@ -118,5 +154,5 @@
 
         
     ],
-    "checkSum": "78AD4267ADBB3BA4494502362CD781B0"
+    "checkSum": "F80FEEC6B9A0AA3FBD9CA242072AD5B0"
 }
