@@ -1,21 +1,84 @@
 {
-    "version": "20250930",
+    "version": "20260730",
     "topicList": [
         {
             "type":"1",
             "itemInfo": {
-                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_zhongqiu.jpg",
-                "title": "中秋，是一场瞒不住的思念",
-                "contentUrl": "https://mp.weixin.qq.com/s/Six83o1tkKodnoVd0WHRbA",
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_luoyang.jpeg",
+                "title": "河南洛阳：如果你只能去一座古都，就来这里吧",
+                "contentUrl": "https://mp.weixin.qq.com/s/hejMaAa0Gv_IKp6L1uexKQ",
                 "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             },
         },
         {
             "type":"1",
             "itemInfo": {
-                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_biyeji.jpg",
-                "title": "【毕业季】有离别才有重逢",
-                "contentUrl": "https://mp.weixin.qq.com/s/Un-iNMaOJlNCkFJlF92xEg",
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_kaifeng.jpeg",
+                "title": "河南开封：繁华易见，这几样东西才是真正的开封",
+                "contentUrl": "https://mp.weixin.qq.com/s/hOO1b2QMrJ2fOee3dEtFJQ",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_hefei.jpeg",
+                "title": "安徽合肥：背了几百年骂名，却是我后悔最晚读懂的城",
+                "contentUrl": "https://mp.weixin.qq.com/s/mW7WMmOLIlotq8LLgGvx3A",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_nanjing.jpeg",
+                "title": "江苏南京：7 个必去打卡点 + 避坑指南，在摩登与古建间，做一场金陵的梦",
+                "contentUrl": "https://mp.weixin.qq.com/s/I1wn_tuoe1GaBDr4cSFjVQ",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_shangrao.jpeg",
+                "title": "江西上饶：大半本语文课本的宋词，都在这 6 个必去打卡地",
+                "contentUrl": "https://mp.weixin.qq.com/s/_VdBN9uKfXh2pmi_q98I8A",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_ganzhou.jpeg",
+                "title": "江西赣州！辛弃疾写下千古绝唱的宋词古城，4 个必去点位，别再只去南昌庐山了",
+                "contentUrl": "https://mp.weixin.qq.com/s/JGUCwdD6r3LrtXMK3qrJFw",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_suqian.jpeg",
+                "title": "江苏宿迁：乾隆六下江南五次驻跸，这座霸王故里藏着多少惊喜",
+                "contentUrl": "https://mp.weixin.qq.com/s/wYn3W1H5gB5jUPPtgneZ4g",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_quzhou.jpeg",
+                "title": "祖国多山川，为何独独衢州，能装下一首《三衢道中》",
+                "contentUrl": "https://mp.weixin.qq.com/s/863P_FYHiDwF67Yp4u3j6A",
+                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            },
+        },
+        {
+            "type":"1",
+            "itemInfo": {
+                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_hangzhou.jpeg",
+                "title": "浙江杭州：我们对江南的执念，早在小学课本里就种下了",
+                "contentUrl": "https://mp.weixin.qq.com/s/W0gZbUAOfPmqAWu-kLWCXQ",
                 "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             },
         },
@@ -34,24 +97,6 @@
                 "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_suxiaoxiao.jpg",
                 "title": "19 岁香消玉殒，却让中国人怀念了 1500 年：西泠桥畔的诗魂苏小小",
                 "contentUrl": "https://mp.weixin.qq.com/s/E83y4Rvbx2TJtjyzOTPDuw",
-                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
-            },
-        },
-        {
-            "type":"1",
-            "itemInfo": {
-                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_gaokao.jpg",
-                "title": "【高考加油】青衿之志，履践致远：愿即将奔赴考场的你—— 笔底生花，终得金榜题名",
-                "contentUrl": "https://mp.weixin.qq.com/s/E8sGhnOH0a0yA_yO2BG9KQ",
-                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
-            },
-        },
-        {
-            "type":"1",
-            "itemInfo": {
-                "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_read.jpg",
-                "title": "陆游竟是古代第一猫奴？宋朝人养猫有多潮？看完好想穿越去撸猫！",
-                "contentUrl": "https://mp.weixin.qq.com/s/XOt6Jil3UVxVFBtD_Usybw",
                 "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             },
         },
@@ -80,16 +125,6 @@
                 "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_dufu.jpg",
                 "title": "杜甫：安得广厦千万间，何以让我们至今仍热泪盈眶？",
                 "contentUrl": "https://mp.weixin.qq.com/s/ivBRiVDFDxRk0eIQ5hIOAA",
-                "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
-            },
-        },
-        
-        {
-            "type":"1",
-            "itemInfo": {
-                "coverImgUrl": "https://amovejobs.top/poetry/normal/cover_flower.jpg",
-                "title": "母亲节·原来我们都在母亲的针脚里长大",
-                "contentUrl": "https://mp.weixin.qq.com/s/edB9VyFFOKduX2Hq0PTaqw",
                 "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             },
         },
@@ -154,5 +189,5 @@
 
         
     ],
-    "checkSum": "F80FEEC6B9A0AA3FBD9CA242072AD5B0"
+    "checkSum": "0D6A6044E6959C833A9145021C5B28DF"
 }
