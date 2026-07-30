@@ -2,49 +2,48 @@
     "version" : "20250930",
     "adList": [
         {
-            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_zhongqiu.jpg",
-            "title": "中秋，是一场瞒不住的思念",
+            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_luoyang.jpeg",
+            "title": "河南洛阳：如果你只能去一座古都，就来这里吧",
             "type": "0",
             "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/Six83o1tkKodnoVd0WHRbA"
+                "url": "https://mp.weixin.qq.com/s/hejMaAa0Gv_IKp6L1uexKQ"
             }
         },
         {
-            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_biyeji.jpg",
-            "title": "【毕业季】有离别才有重逢",
+            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_suqian.jpeg",
+            "title": "江苏宿迁：乾隆六下江南五次驻跸，这座霸王故里藏着多少惊喜",
             "type": "0",
             "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/Un-iNMaOJlNCkFJlF92xEg"
-            }
-        },
-       
-        {
-            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_read.jpg",
-            "title": "陆游竟是古代第一猫奴？",
-            "type": "0",
-            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
-            "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/XOt6Jil3UVxVFBtD_Usybw"
+                "url": "https://mp.weixin.qq.com/s/wYn3W1H5gB5jUPPtgneZ4g"
             }
         },
         {
-            "coverImgUrl": "https://amovejobs.top/poetry/travel/travel_guangdong.jpg",
-            "title": "读懂岭南，从这里开始",
+            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_hangzhou.jpeg",
+            "title": "浙江杭州：我们对江南的执念，早在小学课本里就种下了",
             "type": "0",
             "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/9N7ATfv5y-YaRZvVtKVgnA"
+                "url": "https://mp.weixin.qq.com/s/W0gZbUAOfPmqAWu-kLWCXQ"
             }
         },
         {
-            "coverImgUrl": "https://wx2.sinaimg.cn/large/8f58852bly1hzjt4qlufwj20rs0fmaiy.jpg",
-            "title": "部编小学二年级中国神话故事之羿射九日",
+            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_hefei.jpeg",
+            "title": "安徽合肥：背了几百年骂名，却是我后悔最晚读懂的城",
             "type": "0",
             "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
             "adInfo": {
-                "url": "https://mp.weixin.qq.com/s/RK_E9yBWNC9aSNkAC7kkMA"
+                "url": "https://mp.weixin.qq.com/s/mW7WMmOLIlotq8LLgGvx3A"
+            }
+        },
+        {
+            "coverImgUrl": "https://amovejobs.top/poetry/itemCover/cover_kaifeng.jpeg",
+            "title": "河南开封：繁华易见，这几样东西才是真正的开封",
+            "type": "0",
+            "gradeRange": "0,1,2,3,4,5,6,7,8,9,10,11,12,99",
+            "adInfo": {
+                "url": "https://mp.weixin.qq.com/s/hOO1b2QMrJ2fOee3dEtFJQ"
             }
         },
         {
@@ -147,5 +146,5 @@
     },
     "TXAIClose": "NO",
     "BDAIClose": "NO",
-    "checkSum" : "3E321C3E6A17BC565B3759392F7BA95C"
+    "checkSum" : "0BDDC6DCF2C80E162DE816330B33ACBE"
 }
